@@ -10,4 +10,4 @@ First, I edited several sections of the html document by changing various "div" 
 
 Finally, once the assignment itself was completed, all files were uploaded into the repository.
 
-A link to the activated app can be found here:
+A link to the activated app can be found here: https://brianmckennaman.github.io/Challenge-Assignment-1/
